@@ -6,7 +6,7 @@ Displays the test results in the console log.
 ## Usage
 
 Clone this repo and copy the `test.js` file in the project folder that you want to test.  
-Create a `testSpec.js` file as per the example and test your functions.
+Create a `testSpec.js` file as per the example and test your functions.  
 Set a `specRunner.js` file as per the example and open it in the browser to run the tests.
 
 ## Available commands
